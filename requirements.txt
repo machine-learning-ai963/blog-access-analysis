@@ -1,0 +1,7 @@
+streamlit
+pandas
+requests
+beautifulsoup4
+trafilatura
+google-genai
+lxml
